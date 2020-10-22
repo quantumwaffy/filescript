@@ -1,0 +1,2 @@
+# filescript
+ File automatization
